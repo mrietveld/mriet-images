@@ -1,2 +1,3 @@
 thumbs-up: http://www.lightintheboxblog.com/wp-content/uploads/2013/11/thumbs-up1.jpg
 rightToolRightJob-handsaw.jpg: http://homepage.stat.uiowa.edu/~jcryer/RightTool.jpg
+questions.jpg: http://www.fresheventure.com/images/TenQuestionsDropshippers.jpg
